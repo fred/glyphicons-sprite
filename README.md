@@ -13,7 +13,9 @@ Pull requests are welcome to add names to the css classes.
 
 ## Sample
 
+Here is the sample html page:
 
+[preview.html](http://htmlpreview.github.io/?https://github.com/fred/glyphicons-sprite/blob/master/index.html)
 
 ## License
 
